@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}       
+
+ a {
+    text-decoration: none;
+    background-color: rgb(212, 208, 139);
+    color: rgb(9, 10, 8);
+    border: 1px solid rgba(243, 201, 12, 0.425);
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 178px;
+} 
+
+
+a:hover{
+    background-color: rgb(153, 153, 138);
+    color: rgb(4, 3, 5);
+}
+div{
+    margin: 50px;
+}
+ 
+
+#container {
+    width: 839px;  
+    height: 1119px;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    background: url(https://i.imgur.com/rTrwsel.png) no-repeat center;
+}
+
+
+
+p {
+        display: block;
+        margin-top: 80px;
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: left;
+        font-size: 20px;
+    }
+
+
+h1{
+    margin-top: 280px;
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    height: 60px;
+    font-size: 2em;
+}
+
+h2{
+    margin-top: 10px;
+    margin-left: 95px;
+    text-align: left;
+    font-size: 25px;
+    display: block;
+}
+
+h3{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    height: 60px;
+    font-size: 2em;
+}
+
+body{
+        background-image: url(https://i.imgur.com/5UoLP9S.png);
+        background-size: cover;
+
+}
+
+
